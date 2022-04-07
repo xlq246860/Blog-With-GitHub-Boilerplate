@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Taotie's Blog/"
+site_prefix = "/Taotie-Blog/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -14,8 +14,8 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": "xlq246860/Taotie's Blog@gh-pages"
+    "enabled": True,
+    "repo": "xlq246860/Taotie-Blog@gh-pages"
 }
 
 # 站点设置
