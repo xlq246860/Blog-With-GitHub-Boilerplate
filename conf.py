@@ -8,10 +8,16 @@ source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
+# template = {
+#     "name": "Galileo",
+#     "type": "local",
+#     "path": "../Galileo"
+# }
 template = {
     "name": "Galileo",
-    "type": "local",
-    "path": "../Galileo"
+    "type": "git",
+    "url": "https://github.com/xlq246860/Maverick-Theme-Galileo.git",
+    "branch": "latest"
 }
 enable_jsdelivr = {
     "enabled": False,
