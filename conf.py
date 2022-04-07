@@ -14,7 +14,7 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": True,
+    "enabled": False,
     "repo": "xlq246860/Taotie-Blog@gh-pages"
 }
 
